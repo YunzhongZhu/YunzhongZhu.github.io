@@ -1,10 +1,10 @@
 # Site settings
-title: 朱允中的博客
-SEOTitle: 朱允中的博客 | YunzhongZhu's Blog
+title: 派大星的博客
+SEOTitle: 派大星的博客 | YunzhongZhu's Blog
 header-img: img/post-bg-desk.jpg
 email: isjayden.choo@outlook.com
 description: "Keep exploring and stay peace."
-keyword: "朱允中的博客, Mathematics,Thoughts,Electronic Games"
+keyword: "派大星的博客, Mathematics,Thoughts,Electronic Games"
 url: "http://YunzhongZhu.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
@@ -18,9 +18,7 @@ sidebar-avatar: /img/icon.jpg      # use absolute URL, seeing it's used in both 
 
 # SNS settings
 RSS: false
-# 
-zhihu_username:    企鹅仙人
-github_username:   YunzhongZhu
+# github_username:   YunzhongZhu
 
 
 
@@ -94,18 +92,3 @@ service-worker: true
 
 
 # Friends
-#friends: [
-    {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
-    }
-]
