@@ -1,17 +1,17 @@
 # Site settings
-title: 派大星的博客
-SEOTitle: 派大星的博客 | YunzhongZhu's Blog
+title: 史蒂夫的博客
+SEOTitle: 史蒂夫的博客 | Steve's Blog
 header-img: img/post-bg-desk.jpg
 email: isjayden.choo@outlook.com
 description: "Keep exploring and stay peace."
-keyword: "派大星的博客, Mathematics,Thoughts,Electronic Games"
+keyword: "MYWORLD, Mathematics,Thoughts,Electronic Games"
 url: "http://YunzhongZhu.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "Goals determine what you going to be!"
+sidebar-about-description: "The limit of language is the limit of the world."
 sidebar-avatar: /img/icon.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
