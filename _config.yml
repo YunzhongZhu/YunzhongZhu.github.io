@@ -1,10 +1,10 @@
 # Site settings
-title: 史蒂夫的博客
-SEOTitle: 史蒂夫的博客 | Steve's Blog
+title: 朱允中的博客
+SEOTitle: 朱允中的博客 | Yunzhong Zhu's Blog
 header-img: img/post-bg-desk.jpg
 email: isjayden.choo@outlook.com
 description: "Keep exploring and stay peace."
-keyword: "MYWORLD, Mathematics,Thoughts,Electronic Games"
+keyword: "Mathematics,Thoughts,Electronic Games"
 url: "http://YunzhongZhu.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
